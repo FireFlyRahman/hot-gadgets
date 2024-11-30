@@ -1,0 +1,47 @@
+.half-width{
+    display: flex;
+    align-items: center;
+}
+.card-body{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 0px 10px 20px lightgray;
+}
+.secondary-nav{
+    display: flex;
+    justify-content: space-between;
+}
+.pad-bot{
+    padding-bottom: 75px;
+}
+.one{
+    position: absolute;
+    top: 0;
+    left: 50%;
+    z-index: 1;
+}
+.two{
+    position: absolute;
+    top: 0;
+    left: 50%;
+}
+.bg{
+    position: relative;
+}
+.items{
+    gap: 0px;
+    border: none;
+    box-shadow: 0px 10px 20px lightgray;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boxing{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
